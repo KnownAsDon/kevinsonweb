@@ -14,5 +14,5 @@ Editor: Notepad ++<br>
 Time: about 8-10 hours<br>
 
 **You can find the actual website
-[here](http://knownasdon.github.io/kevinsonweb)**.<br>
+[here](https://knownasdon.github.io/kevinsonweb/)**.<br>
 The original github repo is github.com/knownasdon/kevinsonweb
